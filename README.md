@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AdnanMehraj2006/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AdnanMehraj2006/DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/AdnanMehraj2006/DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AdnanMehraj2006/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AdnanMehraj2006/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdnanMehraj2006/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/AdnanMehraj2006/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdnanMehraj2006/DSA/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AdnanMehraj2006/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AdnanMehraj2006/DSA/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AdnanMehraj2006/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AdnanMehraj2006/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
