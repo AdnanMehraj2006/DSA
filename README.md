@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AdnanMehraj2006/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdnanMehraj2006/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/AdnanMehraj2006/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/AdnanMehraj2006/DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/AdnanMehraj2006/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/AdnanMehraj2006/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/AdnanMehraj2006/DSA/tree/master/0525-contiguous-array) |
