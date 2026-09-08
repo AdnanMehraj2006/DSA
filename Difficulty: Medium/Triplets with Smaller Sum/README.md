@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1">Triplets with Smaller Sum</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given an array <strong>arr[] </strong>of distinct integers and an integer <strong>sum</strong>, count the number of unique triplets of elements whose sum is strictly less than sum. A triplet is identified only by the three elements it contains, so different permutations of the same three elements are counted as one triplet.</span></p>
+<p><strong><span style="font-size: 18px;"><strong>Examples :</strong></span></strong></p>
+<pre><strong><span style="font-size: 18px;"><strong>Input: </strong></span></strong><span style="font-size: 18px;">sum = 2, arr[] = [-2, 0, 1, 3]</span><strong><span style="font-size: 18px;">
+<strong>Output:</strong>  </span></strong><span style="font-size: 18px;">2</span><strong><span style="font-size: 18px;">
+<strong>Explanation</strong>: T</span></strong><span style="font-size: 18px;">riplets with sum less than 2 are (-2, 0, 1) and (-2, 0, 3). </span>
+</pre>
+<pre><strong><span style="font-size: 18px;"><strong>Input: </strong></span></strong><span style="font-size: 18px;">sum = 12, arr[] = [5, 1, 3, 4, 7]</span><strong><span style="font-size: 18px;">
+<strong>Output:</strong> </span></strong><span style="font-size: 18px;">4</span><strong><span style="font-size: 18px;">
+<strong>Explanation</strong>: </span></strong><span style="font-size: 18px;">Triplets with sum less than 12 are (1, 3, 4), (5, 1, 3), (1, 3, 7) and (5, 1, 4).</span></pre></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Amazon</code>&nbsp;<code>SAP Labs</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>two-pointer-algorithm</code>&nbsp;<code>Arrays</code>&nbsp;
