@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AdnanMehraj2006/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AdnanMehraj2006/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AdnanMehraj2006/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AdnanMehraj2006/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdnanMehraj2006/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdnanMehraj2006/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AdnanMehraj2006/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AdnanMehraj2006/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/AdnanMehraj2006/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdnanMehraj2006/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AdnanMehraj2006/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/AdnanMehraj2006/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2351-first-letter-to-appear-twice](https://github.com/AdnanMehraj2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/AdnanMehraj2006/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdnanMehraj2006/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AdnanMehraj2006/DSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AdnanMehraj2006/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdnanMehraj2006/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/AdnanMehraj2006/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Sorting
