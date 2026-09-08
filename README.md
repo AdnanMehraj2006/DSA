@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AdnanMehraj2006/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/AdnanMehraj2006/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/AdnanMehraj2006/DSA/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/AdnanMehraj2006/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/AdnanMehraj2006/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AdnanMehraj2006/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/AdnanMehraj2006/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/AdnanMehraj2006/DSA/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/AdnanMehraj2006/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/AdnanMehraj2006/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Sorting
 |  |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdnanMehraj2006/DSA/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/AdnanMehraj2006/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
