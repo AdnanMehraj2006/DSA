@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AdnanMehraj2006/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/AdnanMehraj2006/DSA/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/AdnanMehraj2006/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
