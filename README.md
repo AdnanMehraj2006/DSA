@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AdnanMehraj2006/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AdnanMehraj2006/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdnanMehraj2006/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/AdnanMehraj2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AdnanMehraj2006/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/AdnanMehraj2006/DSA/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdnanMehraj2006/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AdnanMehraj2006/DSA/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdnanMehraj2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Array
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AdnanMehraj2006/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AdnanMehraj2006/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdnanMehraj2006/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/AdnanMehraj2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/AdnanMehraj2006/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AdnanMehraj2006/DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/AdnanMehraj2006/DSA/tree/master/0075-sort-colors) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdnanMehraj2006/DSA/tree/master/0042-trapping-rain-water) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AdnanMehraj2006/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Recursion
 |  |
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdnanMehraj2006/DSA/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AdnanMehraj2006/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
