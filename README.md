@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AdnanMehraj2006/DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/AdnanMehraj2006/DSA/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/AdnanMehraj2006/DSA/tree/master/0383-ransom-note) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdnanMehraj2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AdnanMehraj2006/DSA/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdnanMehraj2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Array
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AdnanMehraj2006/DSA/tree/master/0206-reverse-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AdnanMehraj2006/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
