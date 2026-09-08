@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/AdnanMehraj2006/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AdnanMehraj2006/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/AdnanMehraj2006/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -37,5 +39,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AdnanMehraj2006/DSA/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
