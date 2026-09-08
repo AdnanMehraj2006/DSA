@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AdnanMehraj2006/DSA/tree/master/0076-minimum-window-substring) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdnanMehraj2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/AdnanMehraj2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AdnanMehraj2006/DSA/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AdnanMehraj2006/DSA/tree/master/0202-happy-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/AdnanMehraj2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -101,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AdnanMehraj2006/DSA/tree/master/0076-minimum-window-substring) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdnanMehraj2006/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
