@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AdnanMehraj2006/DSA/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/AdnanMehraj2006/DSA/tree/master/0383-ransom-note) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdnanMehraj2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/AdnanMehraj2006/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/AdnanMehraj2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AdnanMehraj2006/DSA/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/AdnanMehraj2006/DSA/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/AdnanMehraj2006/DSA/tree/master/0525-contiguous-array) |
+| [1189-maximum-number-of-balloons](https://github.com/AdnanMehraj2006/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2351-first-letter-to-appear-twice](https://github.com/AdnanMehraj2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/AdnanMehraj2006/DSA/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/AdnanMehraj2006/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2351-first-letter-to-appear-twice](https://github.com/AdnanMehraj2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Bubble Sort
 |  |
