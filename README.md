@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/AdnanMehraj2006/DSA/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/AdnanMehraj2006/DSA/tree/master/0383-ransom-note) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdnanMehraj2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/AdnanMehraj2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AdnanMehraj2006/DSA/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AdnanMehraj2006/DSA/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/AdnanMehraj2006/DSA/tree/master/0383-ransom-note) |
 | [2351-first-letter-to-appear-twice](https://github.com/AdnanMehraj2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AdnanMehraj2006/DSA/tree/master/0383-ransom-note) |
 | [2351-first-letter-to-appear-twice](https://github.com/AdnanMehraj2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Bubble Sort
 |  |
