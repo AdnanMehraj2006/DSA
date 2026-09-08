@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AdnanMehraj2006/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdnanMehraj2006/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AdnanMehraj2006/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AdnanMehraj2006/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/AdnanMehraj2006/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdnanMehraj2006/DSA/tree/master/0042-trapping-rain-water) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AdnanMehraj2006/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AdnanMehraj2006/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
