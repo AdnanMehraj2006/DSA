@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/AdnanMehraj2006/DSA/tree/master/0876-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+## Stack
+|  |
+| ------- |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
