@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AdnanMehraj2006/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AdnanMehraj2006/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/AdnanMehraj2006/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/AdnanMehraj2006/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/AdnanMehraj2006/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdnanMehraj2006/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdnanMehraj2006/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -74,10 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AdnanMehraj2006/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AdnanMehraj2006/DSA/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/AdnanMehraj2006/DSA/tree/master/0383-ransom-note) |
+| [0525-contiguous-array](https://github.com/AdnanMehraj2006/DSA/tree/master/0525-contiguous-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/AdnanMehraj2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/AdnanMehraj2006/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/AdnanMehraj2006/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdnanMehraj2006/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/AdnanMehraj2006/DSA/tree/master/1991-find-the-middle-index-in-array) |
