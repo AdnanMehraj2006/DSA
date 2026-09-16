@@ -17,15 +17,15 @@ class Solution {
         if(n==0) return -1;
         if(n==1 && target==nums[0]) return 0;
         if(n==1 && target!=nums[0]) return -1;
-        if(n==2){
-            if(nums[0] == target){
-                return 0;
-            }else if(nums[1] == target){
-                return 1;
-            }else{
-                return -1;
-            }
-        }
+        // if(n==2){
+        //     if(nums[0] == target){
+        //         return 0;
+        //     }else if(nums[1] == target){
+        //         return 1;
+        //     }else{
+        //         return -1;
+        //     }
+        // }
         int low=0, high=n-1;
         if(nums[0]<nums[n-1]) return binarySearch(nums, low, high, target);
         while(low<=high){
