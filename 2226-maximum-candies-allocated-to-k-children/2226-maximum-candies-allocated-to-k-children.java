@@ -3,9 +3,9 @@ class Solution {
         long count=0;
         for(int i=0; i<arr.length; i++){
             count+=arr[i]/mid;
-        }
-        if(count>=k){
-            return true;
+            if(count>=k){
+                return true;
+            }
         }
         return false;
     }
