@@ -13,7 +13,12 @@ class Solution {
         int n=candies.length;
         int res=0;
         int max=Integer.MIN_VALUE;
-        for(int i=0; i<n; i++) max=Math.max(max, candies[i]);
+        long total=0;
+        for(int i=0; i<n; i++) {
+            max=Math.max(max, candies[i]);
+            total+=candies[i];
+        }
+        if(total<k) return 0;
         int low=1, high=max;
         while(low<=high){
             int mid=low+(high-low)/2;
