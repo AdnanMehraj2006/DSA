@@ -1,6 +1,6 @@
 class Solution {
     public boolean result(int[] arr, int d, int mid){
-        int count=1;
+        int count=1;//always day 1 as per constraints
         int sum=0;
         for(int i=0; i<arr.length; i++){
             if (arr[i] > mid) {
@@ -21,13 +21,13 @@ class Solution {
         int n=weights.length;
         if(n==0) return -1;
         int res=-1;
-        int min=Integer.MAX_VALUE;
+        int max=Integer.MIN_VALUE;
         int sum=0;
         for(int val : weights){
-            min=Math.min(min, val);
+            max=Math.max(max, val);
             sum+=val;
         }
-        int low=min, high=sum;
+        int low=max, high=sum;
         while(low<=high){
             int mid=low+(high-low)/2;
             if(result(weights, days, mid)){
@@ -40,3 +40,7 @@ class Solution {
         return res;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
